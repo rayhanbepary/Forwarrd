@@ -34,10 +34,10 @@ class ContactForm extends Component {
             message: message
         }
         emailjs.send(
-            'gmail_bhjj215434',
-            'template_w7rx9yg',
+            'service_id',
+            'template_id',
             templateParams,
-            'user_dTlHWxD5X7ycVjyJreVc2'
+            'user_id'
         )
         .then(response => {
             if (response) {
