@@ -1,22 +1,24 @@
 ![logo](https://www.linkpicture.com/q/logo_191.png)
 ##
 
-This website is the clone of Airbnb. Hosts can host their room/hotel /house at this site, those will appear on the search page based on the location where the guests are going. And guests can book their preferred room. It has built in react. The code is well commented and straightforward and it's easy to customize.
+This website has been developed for a startup company named FORWARRD. It is a waste management company. They use this website to manage their waste collector, clients. This website has some interesting features. It has three parts, one for admin and others for waste collector and clients. Every admin, waste collector, and client has individual account. Each of them is managed separately. It has built in react. The code is well commented and straightforward and it's easy to customize.
 
 
 [Live Website](http://forwarrd.mrbsoft.com/)
 
 ### Features:
-* Hotel/room booking website
-*	Search room/hotel
-*	Details of room/hotel
-*	Reserve room/hotel
-*	Checkin & Checkout date picker
-*	Guests selection
-*	Cross Browser Compatible
-*	Modern Design
-*	Clean code
-*	Easy to customize
+* Cross Browser Compatible
+* Modern Design
+* Clean code
+* Easy to customize
+* Fully responsive design
+* Signup functionality
+* Login functionality
+* Waste collector dashboard
+* Admin dashboard
+* User dashboard
+* Users can see their deposit and can withdraw
+
 
 ### Technology used:
 * Javascript
@@ -27,4 +29,13 @@ This website is the clone of Airbnb. Hosts can host their room/hotel /house at t
 * react-bootstrap
 * react-icons
 * react-router-dom
-* react-datepicker
+* emailjs-com
+* jwt-decode
+* react-countup
+* react-modal
+* react-paginate
+* react-redux
+* redux
+* redux-thunk
+* react-toastify
+* axios
